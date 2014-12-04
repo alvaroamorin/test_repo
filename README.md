@@ -1,10 +1,7 @@
 test_repo
 =========
-##TEST REPO
- *Tomato 
- *Potato 
- *Orange 
-
+##TEST REPO 
+*potatoes
 ###TEST REPO
 *Cars
 
