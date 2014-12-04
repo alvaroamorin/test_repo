@@ -1,8 +1,11 @@
 test_repo
 =========
 ##TEST REPO 
-*potatoes
+
+* potatoes
+* tomatoes
 ###TEST REPO
+
 *Cars
 
 *Boats
